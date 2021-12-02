@@ -6,4 +6,4 @@ L3EХ1 - предприятие выпускает количетсво прод
 L8EХ1 - работа с классом Date
 L15EХ1 - выживание зоопарка при введенных начальных условиях
 L17 - небольшая версия магазина
-Более детально ознакомиться с заданиями можно по ссылке: https://drive.google.com/drive/folders/1oVUv0UKPxbXz-FtKSiHhjpCWGaIZi2Gj
+Более детально ознакомиться с заданиями можно по ссылке: https://drive.google.com/drive/folders/11oVUv0UKPxbXz-FtKSiHhjpCWGaIZi2Gj
